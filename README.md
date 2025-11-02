@@ -3,7 +3,6 @@
 **Understanding Memory Hierarchy and Data Movement Energy in AI Computing**
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📋 Overview
 
@@ -110,10 +109,6 @@ Feel free to:
 - Implement different AI workloads
 - Improve visualization
 - Add more realistic energy models
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🔗 Learn More
 
